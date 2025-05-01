@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // Write a Java program to input your full name and print a greeting message.
 // import java.util.Scanner;
 
@@ -533,7 +533,7 @@
 //         scanner.close();
 //     }
 // }
-=======
+
 // Write a method to print all odd numbers from 1 to a given number n
 import java.util.Scanner;
 public class task{
@@ -550,4 +550,4 @@ public class task{
     a.close();
     }
 }
->>>>>>> newtask
+
